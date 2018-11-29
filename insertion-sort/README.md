@@ -1,5 +1,6 @@
-Not much to explain here.\n
-\n
-Worst case: Big O of n^2\n
-Average case: Big O of n^2\n
-Best case: Big O of n\n
+* Insertion Sort *
+Not much to explain here.<br />
+<br />
+Worst case: Big O of n^2<br />
+Average case: Big O of n^2<br />
+Best case: Big O of n<br />
